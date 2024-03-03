@@ -2,119 +2,119 @@
 [
     {
         "sno": 1,
-        "customer_name": "Vishnu Sai Rao",
-        "age": 37,
-        "phone": "7779991111",
-        "location": "Vizianagaram",
+        "customer_name": "Priyadarshini",
+        "age": 25,
+        "phone": "9908520408",
+        "location": "Hindupur",
         "created_at": "2021-01-01T00:25:00Z"
     },
     {
         "sno": 2,
-        "customer_name": "Prakash",
-        "age": 32,
-        "phone": "8889990000",
-        "location": "Khammam",
+        "customer_name": "jahnavi",
+        "age": 29,
+        "phone": "9763425731",
+        "location": "Kadapa",
         "created_at": "2022-01-01T01:40:00Z"
     },
     {
         "sno": 3,
-        "customer_name": "varun",
-        "age": 36,
-        "phone": "5556667777",
-        "location": "Srikakulam",
+        "customer_name": "deepu",
+        "age": 27,
+        "phone": "9996667777",
+        "location": "kurnool",
         "created_at": "2023-01-01T02:55:00Z"
     },
     {
         "sno": 4,
-        "customer_name": "Sai yadav",
-        "age": 31,
-        "phone": "9998887777",
+        "customer_name": "Sai latha",
+        "age": 29,
+        "phone": "6768887777",
         "location": "Ranga Reddy",
         "created_at": "2017-02-01T04:10:00Z"
     },
     {
         "sno": 5,
-        "customer_name": "Vijay Deverakonda",
-        "age": 40,
-        "phone": "2223334444",
+        "customer_name": "Vijay",
+        "age": 32,
+        "phone": "2228984444",
         "location": "Nizamabad",
         "created_at": "2018-02-01T05:25:00Z"
     },
     {
         "sno": 6,
-        "customer_name": "Pawan Kalyan",
-        "age": 35,
+        "customer_name": "allu arjun",
+        "age": 37,
         "phone": "7779991111",
         "location": "Visakhapatnam",
         "created_at": "2019-02-01T06:40:00Z"
     },
     {
         "sno": 7,
-        "customer_name": "Ram Charan",
-        "age": 30,
+        "customer_name": "Rammana",
+        "age": 34,
         "phone": "8889990000",
         "location": "Karimnagar",
         "created_at": "2020-02-01T07:55:00Z"
     },
     {
         "sno": 8,
-        "customer_name": "Vishnu Manchu",
-        "age": 29,
-        "phone": "5556667777",
-        "location": "East Godavari",
+        "customer_name": "kushal",
+        "age": 39,
+        "phone": "5906667777",
+        "location": "West Godavari",
         "created_at": "2021-03-01T09:10:00Z"
     },
     {
         "sno": 9,
-        "customer_name": "Nani",
-        "age": 34,
-        "phone": "9998887777",
+        "customer_name": "Naini",
+        "age": 37,
+        "phone": "9996767777",
         "location": "Adilabad",
         "created_at": "2022-03-01T10:25:00Z"
     },
     {
         "sno": 10,
-        "customer_name": "Dhoni",
-        "age": 39,
-        "phone": "2223334444",
+        "customer_name": "kumar",
+        "age": 29,
+        "phone": "9993334444",
         "location": "Kurnool",
         "created_at": "2023-03-01T11:40:00Z"
     },
     {
         "sno": 11,
-        "customer_name": "Vijay Sethupathi",
-        "age": 33,
-        "phone": "7779991111",
+        "customer_name": "Vijayalashmi",
+        "age": 38,
+        "phone": "6769991111",
         "location": "Mahbubnagar",
         "created_at": "2017-04-01T12:55:00Z"
     },
     {
         "sno": 12,
-        "customer_name": "Vishal",
-        "age": 38,
+        "customer_name": "Vimal",
+        "age": 40,
         "phone": "8889990000",
         "location": "Anantapur",
         "created_at": "2018-04-01T14:10:00Z"
     },
     {
         "sno": 13,
-        "customer_name": "Rana Daggubati",
-        "age": 28,
+        "customer_name": "vimala",
+        "age": 30,
         "phone": "5556667777",
-        "location": "West Godavari",
+        "location": "East Godavari",
         "created_at": "2019-04-01T15:25:00Z"
     },
     {
         "sno": 14,
-        "customer_name": "Nagarjuna",
-        "age": 37,
-        "phone": "9998887777",
+        "customer_name": "Nazma",
+        "age": 42,
+        "phone": "1038887777",
         "location": "Medak",
         "created_at": "2020-04-01T16:40:00Z"
     },
     {
         "sno": 15,
-        "customer_name": "Jagapathi Babu",
+        "customer_name": "Babulu",
         "age": 32,
         "phone": "2223334444",
         "location": "Vishakhapatnam",
@@ -122,7 +122,7 @@
     },
     {
         "sno": 16,
-        "customer_name": "Ravi Teja",
+        "customer_name": "Ravindra",
         "age": 31,
         "phone": "7779991111",
         "location": "Kakinada",
@@ -130,15 +130,15 @@
     },
     {
         "sno": 17,
-        "customer_name": "Chiranjeevi",
-        "age": 30,
+        "customer_name": "firoz",
+        "age": 35,
         "phone": "8889990000",
         "location": "Nellore",
         "created_at": "2023-05-01T20:25:00Z"
     },
     {
         "sno": 18,
-        "customer_name": "Kohli",
+        "customer_name": "roshan",
         "age": 35,
         "phone": "5556667777",
         "location": "Srikakulam",
@@ -146,7 +146,7 @@
     },
     {
         "sno": 19,
-        "customer_name": "Vikram",
+        "customer_name": "Vivek",
         "age": 40,
         "phone": "9998887777",
         "location": "Vizag",
@@ -154,7 +154,7 @@
     },
     {
         "sno": 20,
-        "customer_name": "Ajith",
+        "customer_name": "komali",
         "age": 29,
         "phone": "2223334444",
         "location": "Warangal",
@@ -162,7 +162,7 @@
     },
     {
         "sno": 21,
-        "customer_name": "Vijay Shanksr",
+        "customer_name": "shankar",
         "age": 36,
         "phone": "7779991111",
         "location": "Hyderabad",
@@ -170,7 +170,7 @@
     },
     {
         "sno": 22,
-        "customer_name": "Dulquer Salmaan",
+        "customer_name": "Salmaan khan",
         "age": 27,
         "phone": "8889990000",
         "location": "Krishna",
@@ -178,7 +178,7 @@
     },
     {
         "sno": 23,
-        "customer_name": "Siddharth",
+        "customer_name": "divya",
         "age": 38,
         "phone": "5556667777",
         "location": "Guntur",
@@ -186,7 +186,7 @@
     },
     {
         "sno": 24,
-        "customer_name": "Kamal Haasan",
+        "customer_name": "venu",
         "age": 33,
         "phone": "9998887777",
         "location": "Adoni",
@@ -194,7 +194,7 @@
     },
     {
         "sno": 25,
-        "customer_name": "Raina",
+        "customer_name": "drupad",
         "age": 38,
         "phone": "2223334444",
         "location": "Chittoor",
@@ -202,7 +202,7 @@
     },
     {
         "sno": 26,
-        "customer_name": "Vikram",
+        "customer_name": "lalli",
         "age": 30,
         "phone": "7779991111",
         "location": "Eluru",
@@ -210,7 +210,7 @@
     },
     {
         "sno": 27,
-        "customer_name": "Murli Vijay",
+        "customer_name": "vasantha",
         "age": 29,
         "phone": "8889990000",
         "location": "Nizamabad",
@@ -218,7 +218,7 @@
     },
     {
         "sno": 28,
-        "customer_name": "Pawan Kalyan",
+        "customer_name": "jwala",
         "age": 34,
         "phone": "5556667777",
         "location": "Khammam",
@@ -226,7 +226,7 @@
     },
     {
         "sno": 29,
-        "customer_name": "Rama Rao",
+        "customer_name": "reeta",
         "age": 39,
         "phone": "9998887777",
         "location": "Visakhapatnam",
@@ -234,7 +234,7 @@
     },
     {
         "sno": 30,
-        "customer_name": "Allu Sirish",
+        "customer_name": "krishna",
         "age": 32,
         "phone": "2223334444",
         "location": "Ranga Reddy",
@@ -242,7 +242,7 @@
     },
     {
         "sno": 31,
-        "customer_name": "Ruthuraj",
+        "customer_name": "radha",
         "age": 37,
         "phone": "7779991111",
         "location": "Nalgonda",
@@ -250,7 +250,7 @@
     },
     {
         "sno": 32,
-        "customer_name": "Shafali Verma",
+        "customer_name": "rakool",
         "age": 36,
         "phone": "8889990000",
         "location": "Vizianagaram",
@@ -258,7 +258,7 @@
     },
     {
         "sno": 33,
-        "customer_name": "Rohit Sharma",
+        "customer_name": "anushka",
         "age": 31,
         "phone": "5556667777",
         "location": "Karimnagar",
@@ -266,7 +266,7 @@
     },
     {
         "sno": 34,
-        "customer_name": "Virat",
+        "customer_name": "Viranth",
         "age": 38,
         "phone": "9998887777",
         "location": "East Godavari",
@@ -274,7 +274,7 @@
     },
     {
         "sno": 35,
-        "customer_name": "Teja sajja",
+        "customer_name": "Teja ",
         "age": 33,
         "phone": "2223334444",
         "location": "Adilabad",
@@ -282,7 +282,7 @@
     },
     {
         "sno": 36,
-        "customer_name": "Ravindra",
+        "customer_name": "revanth",
         "age": 28,
         "phone": "7779991111",
         "location": "Medak",
@@ -290,7 +290,7 @@
     },
     {
         "sno": 37,
-        "customer_name": "Vishal Bharathwaj",
+        "customer_name": "karthick",
         "age": 35,
         "phone": "8889990000",
         "location": "Vishakhapatnam",
@@ -298,7 +298,7 @@
     },
     {
         "sno": 38,
-        "customer_name": "Fazal",
+        "customer_name": "Fazulu",
         "age": 30,
         "phone": "5556667777",
         "location": "Guntur",
@@ -306,7 +306,7 @@
     },
     {
         "sno": 39,
-        "customer_name": "Anushka",
+        "customer_name": "Anusha",
         "age": 37,
         "phone": "9998887777",
         "location": "Kurnool",
@@ -314,7 +314,7 @@
     },
     {
         "sno": 40,
-        "customer_name": "Kajol",
+        "customer_name": "Karthika",
         "age": 32,
         "phone": "2223334444",
         "location": "Hyderabad",
@@ -322,7 +322,7 @@
     },
     {
         "sno": 41,
-        "customer_name": "Sruthi Haasan",
+        "customer_name": "Sruthi",
         "age": 29,
         "phone": "7779991111",
         "location": "Krishna",
@@ -330,7 +330,7 @@
     },
     {
         "sno": 42,
-        "customer_name": "Anitha",
+        "customer_name": "Ankitha",
         "age": 34,
         "phone": "8889990000",
         "location": "Warangal",
@@ -338,7 +338,7 @@
     },
     {
         "sno": 43,
-        "customer_name": "Vijay Babu",
+        "customer_name": "vikas",
         "age": 39,
         "phone": "5556667777",
         "location": "Eluru",
@@ -346,7 +346,7 @@
     },
     {
         "sno": 44,
-        "customer_name": "Varun Tej",
+        "customer_name": "praveen",
         "age": 28,
         "phone": "9998887777",
         "location": "Nellore",
@@ -354,7 +354,7 @@
     },
     {
         "sno": 45,
-        "customer_name": "Vikram Rathod",
+        "customer_name": "raju",
         "age": 33,
         "phone": "2223334444",
         "location": "Vizag",
@@ -362,7 +362,7 @@
     },
     {
         "sno": 46,
-        "customer_name": "Vishnu",
+        "customer_name": "Venu",
         "age": 38,
         "phone": "7779991111",
         "location": "Nalgonda",
@@ -370,7 +370,7 @@
     },
     {
         "sno": 47,
-        "customer_name": "Mahesh Babu",
+        "customer_name": "Maheshwari",
         "age": 27,
         "phone": "8889990000",
         "location": "Khammam",
@@ -378,7 +378,7 @@
     },
     {
         "sno": 48,
-        "customer_name": "NTR",
+        "customer_name": "luca",
         "age": 32,
         "phone": "5556667777",
         "location": "Srikakulam",
@@ -386,7 +386,7 @@
     },
     {
         "sno": 49,
-        "customer_name": "Raj",
+        "customer_name": "Rajesh",
         "age": 37,
         "phone": "9998887777",
         "location": "Ranga Reddy",
@@ -394,7 +394,7 @@
     },
     {
         "sno": 50,
-        "customer_name": "Vijay Deverakonda",
+        "customer_name": "Vijay",
         "age": 32,
         "phone": "2223334444",
         "location": "Nizamabad",
