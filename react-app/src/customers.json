@@ -1,0 +1,405 @@
+
+[
+    {
+        "sno": 1,
+        "customer_name": "Vishnu Sai Rao",
+        "age": 37,
+        "phone": "7779991111",
+        "location": "Vizianagaram",
+        "created_at": "2021-01-01T00:25:00Z"
+    },
+    {
+        "sno": 2,
+        "customer_name": "Prakash",
+        "age": 32,
+        "phone": "8889990000",
+        "location": "Khammam",
+        "created_at": "2022-01-01T01:40:00Z"
+    },
+    {
+        "sno": 3,
+        "customer_name": "varun",
+        "age": 36,
+        "phone": "5556667777",
+        "location": "Srikakulam",
+        "created_at": "2023-01-01T02:55:00Z"
+    },
+    {
+        "sno": 4,
+        "customer_name": "Sai yadav",
+        "age": 31,
+        "phone": "9998887777",
+        "location": "Ranga Reddy",
+        "created_at": "2017-02-01T04:10:00Z"
+    },
+    {
+        "sno": 5,
+        "customer_name": "Vijay Deverakonda",
+        "age": 40,
+        "phone": "2223334444",
+        "location": "Nizamabad",
+        "created_at": "2018-02-01T05:25:00Z"
+    },
+    {
+        "sno": 6,
+        "customer_name": "Pawan Kalyan",
+        "age": 35,
+        "phone": "7779991111",
+        "location": "Visakhapatnam",
+        "created_at": "2019-02-01T06:40:00Z"
+    },
+    {
+        "sno": 7,
+        "customer_name": "Ram Charan",
+        "age": 30,
+        "phone": "8889990000",
+        "location": "Karimnagar",
+        "created_at": "2020-02-01T07:55:00Z"
+    },
+    {
+        "sno": 8,
+        "customer_name": "Vishnu Manchu",
+        "age": 29,
+        "phone": "5556667777",
+        "location": "East Godavari",
+        "created_at": "2021-03-01T09:10:00Z"
+    },
+    {
+        "sno": 9,
+        "customer_name": "Nani",
+        "age": 34,
+        "phone": "9998887777",
+        "location": "Adilabad",
+        "created_at": "2022-03-01T10:25:00Z"
+    },
+    {
+        "sno": 10,
+        "customer_name": "Dhoni",
+        "age": 39,
+        "phone": "2223334444",
+        "location": "Kurnool",
+        "created_at": "2023-03-01T11:40:00Z"
+    },
+    {
+        "sno": 11,
+        "customer_name": "Vijay Sethupathi",
+        "age": 33,
+        "phone": "7779991111",
+        "location": "Mahbubnagar",
+        "created_at": "2017-04-01T12:55:00Z"
+    },
+    {
+        "sno": 12,
+        "customer_name": "Vishal",
+        "age": 38,
+        "phone": "8889990000",
+        "location": "Anantapur",
+        "created_at": "2018-04-01T14:10:00Z"
+    },
+    {
+        "sno": 13,
+        "customer_name": "Rana Daggubati",
+        "age": 28,
+        "phone": "5556667777",
+        "location": "West Godavari",
+        "created_at": "2019-04-01T15:25:00Z"
+    },
+    {
+        "sno": 14,
+        "customer_name": "Nagarjuna",
+        "age": 37,
+        "phone": "9998887777",
+        "location": "Medak",
+        "created_at": "2020-04-01T16:40:00Z"
+    },
+    {
+        "sno": 15,
+        "customer_name": "Jagapathi Babu",
+        "age": 32,
+        "phone": "2223334444",
+        "location": "Vishakhapatnam",
+        "created_at": "2021-05-01T17:55:00Z"
+    },
+    {
+        "sno": 16,
+        "customer_name": "Ravi Teja",
+        "age": 31,
+        "phone": "7779991111",
+        "location": "Kakinada",
+        "created_at": "2022-05-01T19:10:00Z"
+    },
+    {
+        "sno": 17,
+        "customer_name": "Chiranjeevi",
+        "age": 30,
+        "phone": "8889990000",
+        "location": "Nellore",
+        "created_at": "2023-05-01T20:25:00Z"
+    },
+    {
+        "sno": 18,
+        "customer_name": "Kohli",
+        "age": 35,
+        "phone": "5556667777",
+        "location": "Srikakulam",
+        "created_at": "2017-06-01T21:40:00Z"
+    },
+    {
+        "sno": 19,
+        "customer_name": "Vikram",
+        "age": 40,
+        "phone": "9998887777",
+        "location": "Vizag",
+        "created_at": "2018-06-01T22:55:00Z"
+    },
+    {
+        "sno": 20,
+        "customer_name": "Ajith",
+        "age": 29,
+        "phone": "2223334444",
+        "location": "Warangal",
+        "created_at": "2019-06-01T00:10:00Z"
+    },
+    {
+        "sno": 21,
+        "customer_name": "Vijay Shanksr",
+        "age": 36,
+        "phone": "7779991111",
+        "location": "Hyderabad",
+        "created_at": "2020-06-01T01:25:00Z"
+    },
+    {
+        "sno": 22,
+        "customer_name": "Dulquer Salmaan",
+        "age": 27,
+        "phone": "8889990000",
+        "location": "Krishna",
+        "created_at": "2021-07-01T02:40:00Z"
+    },
+    {
+        "sno": 23,
+        "customer_name": "Siddharth",
+        "age": 38,
+        "phone": "5556667777",
+        "location": "Guntur",
+        "created_at": "2022-07-01T03:55:00Z"
+    },
+    {
+        "sno": 24,
+        "customer_name": "Kamal Haasan",
+        "age": 33,
+        "phone": "9998887777",
+        "location": "Adoni",
+        "created_at": "2023-07-01T05:10:00Z"
+    },
+    {
+        "sno": 25,
+        "customer_name": "Raina",
+        "age": 38,
+        "phone": "2223334444",
+        "location": "Chittoor",
+        "created_at": "2017-08-01T06:25:00Z"
+    },
+    {
+        "sno": 26,
+        "customer_name": "Vikram",
+        "age": 30,
+        "phone": "7779991111",
+        "location": "Eluru",
+        "created_at": "2018-08-01T07:40:00Z"
+    },
+    {
+        "sno": 27,
+        "customer_name": "Murli Vijay",
+        "age": 29,
+        "phone": "8889990000",
+        "location": "Nizamabad",
+        "created_at": "2019-08-01T08:55:00Z"
+    },
+    {
+        "sno": 28,
+        "customer_name": "Pawan Kalyan",
+        "age": 34,
+        "phone": "5556667777",
+        "location": "Khammam",
+        "created_at": "2020-08-01T10:10:00Z"
+    },
+    {
+        "sno": 29,
+        "customer_name": "Rama Rao",
+        "age": 39,
+        "phone": "9998887777",
+        "location": "Visakhapatnam",
+        "created_at": "2021-09-01T11:25:00Z"
+    },
+    {
+        "sno": 30,
+        "customer_name": "Allu Sirish",
+        "age": 32,
+        "phone": "2223334444",
+        "location": "Ranga Reddy",
+        "created_at": "2022-09-01T12:40:00Z"
+    },
+    {
+        "sno": 31,
+        "customer_name": "Ruthuraj",
+        "age": 37,
+        "phone": "7779991111",
+        "location": "Nalgonda",
+        "created_at": "2023-09-01T13:55:00Z"
+    },
+    {
+        "sno": 32,
+        "customer_name": "Shafali Verma",
+        "age": 36,
+        "phone": "8889990000",
+        "location": "Vizianagaram",
+        "created_at": "2017-10-01T15:10:00Z"
+    },
+    {
+        "sno": 33,
+        "customer_name": "Rohit Sharma",
+        "age": 31,
+        "phone": "5556667777",
+        "location": "Karimnagar",
+        "created_at": "2018-10-01T16:25:00Z"
+    },
+    {
+        "sno": 34,
+        "customer_name": "Virat",
+        "age": 38,
+        "phone": "9998887777",
+        "location": "East Godavari",
+        "created_at": "2019-10-01T17:40:00Z"
+    },
+    {
+        "sno": 35,
+        "customer_name": "Teja sajja",
+        "age": 33,
+        "phone": "2223334444",
+        "location": "Adilabad",
+        "created_at": "2020-10-01T18:55:00Z"
+    },
+    {
+        "sno": 36,
+        "customer_name": "Ravindra",
+        "age": 28,
+        "phone": "7779991111",
+        "location": "Medak",
+        "created_at": "2021-11-01T20:10:00Z"
+    },
+    {
+        "sno": 37,
+        "customer_name": "Vishal Bharathwaj",
+        "age": 35,
+        "phone": "8889990000",
+        "location": "Vishakhapatnam",
+        "created_at": "2022-11-01T21:25:00Z"
+    },
+    {
+        "sno": 38,
+        "customer_name": "Fazal",
+        "age": 30,
+        "phone": "5556667777",
+        "location": "Guntur",
+        "created_at": "2023-11-01T22:40:00Z"
+    },
+    {
+        "sno": 39,
+        "customer_name": "Anushka",
+        "age": 37,
+        "phone": "9998887777",
+        "location": "Kurnool",
+        "created_at": "2017-12-01T23:55:00Z"
+    },
+    {
+        "sno": 40,
+        "customer_name": "Kajol",
+        "age": 32,
+        "phone": "2223334444",
+        "location": "Hyderabad",
+        "created_at": "2018-12-01T01:10:00Z"
+    },
+    {
+        "sno": 41,
+        "customer_name": "Sruthi Haasan",
+        "age": 29,
+        "phone": "7779991111",
+        "location": "Krishna",
+        "created_at": "2019-12-01T02:25:00Z"
+    },
+    {
+        "sno": 42,
+        "customer_name": "Anitha",
+        "age": 34,
+        "phone": "8889990000",
+        "location": "Warangal",
+        "created_at": "2020-12-01T03:40:00Z"
+    },
+    {
+        "sno": 43,
+        "customer_name": "Vijay Babu",
+        "age": 39,
+        "phone": "5556667777",
+        "location": "Eluru",
+        "created_at": "2021-01-02T04:55:00Z"
+    },
+    {
+        "sno": 44,
+        "customer_name": "Varun Tej",
+        "age": 28,
+        "phone": "9998887777",
+        "location": "Nellore",
+        "created_at": "2022-01-02T06:10:00Z"
+    },
+    {
+        "sno": 45,
+        "customer_name": "Vikram Rathod",
+        "age": 33,
+        "phone": "2223334444",
+        "location": "Vizag",
+        "created_at": "2023-01-02T07:25:00Z"
+    },
+    {
+        "sno": 46,
+        "customer_name": "Vishnu",
+        "age": 38,
+        "phone": "7779991111",
+        "location": "Nalgonda",
+        "created_at": "2017-02-02T08:40:00Z"
+    },
+    {
+        "sno": 47,
+        "customer_name": "Mahesh Babu",
+        "age": 27,
+        "phone": "8889990000",
+        "location": "Khammam",
+        "created_at": "2018-02-02T09:55:00Z"
+    },
+    {
+        "sno": 48,
+        "customer_name": "NTR",
+        "age": 32,
+        "phone": "5556667777",
+        "location": "Srikakulam",
+        "created_at": "2019-02-02T11:10:00Z"
+    },
+    {
+        "sno": 49,
+        "customer_name": "Raj",
+        "age": 37,
+        "phone": "9998887777",
+        "location": "Ranga Reddy",
+        "created_at": "2020-02-02T12:25:00Z"
+    },
+    {
+        "sno": 50,
+        "customer_name": "Vijay Deverakonda",
+        "age": 32,
+        "phone": "2223334444",
+        "location": "Nizamabad",
+        "created_at": "2021-02-02T13:40:00Z"
+    }
+]
+
+

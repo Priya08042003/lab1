@@ -1,0 +1,66 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 1px;
+  border: 1px solid #ddd;
+  text-align: left;
+  padding-left: 15px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+input[type="text"] {
+  padding: 8px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.pagination button.active {
+  background-color: #45a049;
+}
+
+.pagination button:hover:not(.active) {
+  background-color: #45a049;
+}
+
+.search-wrapper {
+  display: flex;
+  align-items: center;
+  width: 300px; 
+  background-color: white; 
+}
+
+.search-input {
+  width: 100%;
+  margin-left: 50px; 
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.table-container {
+  width: 1520px; 
+  height: 600px; 
+  position: relative; 
+}
+.pages{
+margin-left: 1270px;
+margin-top: 10px;
+display: flex;
+}
+.bar{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 40px;
+}
